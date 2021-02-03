@@ -1,5 +1,6 @@
 from discord.ext import tasks, commands
 from discord import Intents
+import os
 import json
 import traceback # エラー表示のためにインポート
 
